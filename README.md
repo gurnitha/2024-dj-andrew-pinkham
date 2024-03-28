@@ -75,3 +75,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/urls.py
+
+#### 2.6.1 Removing Our Helloworld App from Our Project - Part 1 removing greeting method
+
+        modified:   README.md
+        modified:   suorganizer/urls.py
