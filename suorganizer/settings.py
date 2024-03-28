@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # Locals
     "organizer.apps.OrganizerConfig",
     "blog.apps.BlogConfig",
+    "helloworld.apps.HelloworldConfig",
 ]
 
 MIDDLEWARE = [

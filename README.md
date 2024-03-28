@@ -57,3 +57,7 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         new file:   helloworld/models.py
         new file:   helloworld/tests.py
         new file:   helloworld/views.py
+
+#### 2.2.1 Registering the New App 
+
+        modified:   suorganizer/settings.py
