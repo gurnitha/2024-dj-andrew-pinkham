@@ -34,3 +34,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         new file:   blog/models.py
         new file:   blog/tests.py
         new file:   blog/views.py
+
+#### 1.7.4 Connecting Our New Django Apps to Our Django Project in settings.py
+
+        modified:   README.md
+        modified:   suorganizer/settings.py
