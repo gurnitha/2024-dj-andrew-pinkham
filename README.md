@@ -39,3 +39,7 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/settings.py
+
+
+
+## 2. Hello World
