@@ -23,3 +23,14 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         new file:   organizer/models.py
         new file:   organizer/tests.py
         new file:   organizer/views.py
+
+#### 1.7.3 Creating django app blog
+
+        modified:   README.md
+        new file:   blog/__init__.py
+        new file:   blog/admin.py
+        new file:   blog/apps.py
+        new file:   blog/migrations/__init__.py
+        new file:   blog/models.py
+        new file:   blog/tests.py
+        new file:   blog/views.py
