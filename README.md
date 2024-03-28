@@ -61,3 +61,12 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 #### 2.2.1 Registering the New App 
 
         modified:   suorganizer/settings.py
+
+#### 2.3 Building Hello World
+
+        Pass
+
+#### 2.3.1 Webpage Data
+
+        modified:   README.md
+        modified:   helloworld/views.py
