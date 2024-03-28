@@ -85,3 +85,14 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/settings.py
+
+#### 2.6.3 Removing Our Helloworld App from Our Project - Part 3 removing helloworld app
+
+        modified:   README.md
+        deleted:    helloworld/__init__.py
+        deleted:    helloworld/admin.py
+        deleted:    helloworld/apps.py
+        deleted:    helloworld/migrations/__init__.py
+        deleted:    helloworld/models.py
+        deleted:    helloworld/tests.py
+        deleted:    helloworld/views.py
