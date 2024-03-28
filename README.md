@@ -43,3 +43,17 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
 
 ## 2. Hello World
+
+#### 2.1 Introduction
+
+        Pass
+
+#### 2.2 Creating a New App 
+
+        new file:   helloworld/__init__.py
+        new file:   helloworld/admin.py
+        new file:   helloworld/apps.py
+        new file:   helloworld/migrations/__init__.py
+        new file:   helloworld/models.py
+        new file:   helloworld/tests.py
+        new file:   helloworld/views.py
