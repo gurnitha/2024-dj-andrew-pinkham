@@ -70,3 +70,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   helloworld/views.py
+
+#### 2.3.2 Webpage URL
+
+        modified:   README.md
+        modified:   suorganizer/urls.py
