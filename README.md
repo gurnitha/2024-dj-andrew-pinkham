@@ -80,3 +80,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/urls.py
+
+#### 2.6.2 Removing Our Helloworld App from Our Project - Part 2 removing helloworld from INSTALLED_APPS
+
+        modified:   README.md
+        modified:   suorganizer/settings.py
