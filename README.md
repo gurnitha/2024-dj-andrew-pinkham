@@ -124,3 +124,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+### 3.4.2.3 Completing Our Django Models - Part 3 add fields to Startup model
+
+        modified:   README.md
+        modified:   organizer/models.py
