@@ -140,3 +140,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+### 3.4.3.2 Adding Relational Fields to Our Models - Part 2 add ManyToMany relationship between Tag and Startup
+
+        modified:   README.md
+        modified:   organizer/models.py

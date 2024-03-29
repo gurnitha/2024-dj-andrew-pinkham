@@ -19,6 +19,7 @@ class Startup(models.Model):
     founded_date = models.DateField()
     contact = models.EmailField()
     website = models.URLField()
+    tags = models.ManyToManyField(Tag)
 
 
 class NewsLink(models.Model):
