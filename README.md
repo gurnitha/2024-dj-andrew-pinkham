@@ -162,3 +162,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+#### 3.4.4.3 Controlling Model Field Behavior with Field Options - Part 3 add more fields to Startup model
+
+        modified:   README.md
+        modified:   organizer/models.py
