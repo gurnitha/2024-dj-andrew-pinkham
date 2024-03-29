@@ -15,6 +15,9 @@ class Tag(models.Model):
         unique=True,
         help_text='A label for URL config.')
 
+    def __str__(self):
+        return self.name
+
 
 class Startup(models.Model):
     name = models.CharField(max_length=31, db_index=True)

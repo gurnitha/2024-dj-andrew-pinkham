@@ -172,3 +172,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   blog/models.py
+
+
+#### 3.4.5.1 Adding Methods to Django Models - Part 1 add method to Tag model
+
+        modified:   README.md
+        modified:   organizer/models.py
