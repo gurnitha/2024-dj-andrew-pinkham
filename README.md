@@ -114,3 +114,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   blog/models.py
+
+### 3.4.2.1 Completing Our Django Models - Part 1 basic
+
+        modified:   README.md
+        modified:   organizer/models.py
