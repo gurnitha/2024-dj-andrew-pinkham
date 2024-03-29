@@ -152,3 +152,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   blog/models.py
+
+#### 3.4.4.1 Controlling Model Field Behavior with Field Options - Part 1 Tag model
+
+        modified:   README.md
+        modified:   organizer/models.py

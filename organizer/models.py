@@ -8,8 +8,12 @@ from django.db import models
 # https://docs.djangoproject.com/en/5.0/ref/models/fields/
 
 class Tag(models.Model):
-    name = models.CharField(max_length=31)
-    slug = models.SlugField()
+    name = models.CharField(
+        max_length=31, unique=True)
+    slug = models.SlugField(
+        max_length=31,
+        unique=True,
+        help_text='A label for URL config.')
 
 
 class Startup(models.Model):
