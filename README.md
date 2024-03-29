@@ -96,3 +96,16 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         deleted:    helloworld/models.py
         deleted:    helloworld/tests.py
         deleted:    helloworld/views.py
+
+
+## 3 Programming Django Models and Creating a SQLite Database 31
+
+#### 3.1 Introduction 31
+#### 3.2 Why Use a Database? 32
+#### 3.3 Organizing Our Data 32
+#### 3.4 Specifying and Organizing Data in Django Using Models 36
+
+#### 3.4.1 A First Look at Django Models and Fields - Part 1 basic
+
+        modified:   README.md
+        modified:   blog/models.py
