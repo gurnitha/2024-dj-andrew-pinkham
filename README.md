@@ -167,3 +167,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+#### 3.4.4.4 Controlling Model Field Behavior with Field Options - Part 4 add more fields to Post model
+
+        modified:   README.md
+        modified:   blog/models.py
