@@ -129,3 +129,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+### 3.4.2.4 Completing Our Django Models - Part 4 add fields to NewsLink model
+
+        modified:   README.md
+        modified:   organizer/models.py
