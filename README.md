@@ -119,3 +119,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+### 3.4.2.2 Completing Our Django Models - Part 2 add fields to Tag model
+
+        modified:   README.md
+        modified:   organizer/models.py
