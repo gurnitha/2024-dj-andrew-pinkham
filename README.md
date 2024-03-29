@@ -157,3 +157,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+#### 3.4.4.2 Controlling Model Field Behavior with Field Options - Part 2 add pub_date field to NewsLink model
+
+        modified:   README.md
+        modified:   organizer/models.py
