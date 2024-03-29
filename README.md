@@ -109,3 +109,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   blog/models.py
+
+#### 3.4.1 A First Look at Django Models and Fields - Part 2 add fields
+
+        modified:   README.md
+        modified:   blog/models.py
