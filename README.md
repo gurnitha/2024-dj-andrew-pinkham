@@ -184,3 +184,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+#### 3.4.5.3 Adding Methods to Django Models - Part 3 add method to NewsLink model
+
+        modified:   README.md
+        modified:   organizer/models.py
