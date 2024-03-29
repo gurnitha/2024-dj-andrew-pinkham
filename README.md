@@ -190,3 +190,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+#### 3.4.5.4 Adding Methods to Django Models - Part 4 add method to Post model
+
+        modified:   README.md
+        modified:   blog/models.py
