@@ -178,3 +178,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+#### 3.4.5.2 Adding Methods to Django Models - Part 2 add method to Startup model
+
+        modified:   README.md
+        modified:   organizer/models.py
