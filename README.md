@@ -134,3 +134,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+### 3.4.3.1 Adding Relational Fields to Our Models - Part 1 add OneToMany relationship between Startup and NewsLink
+
+        modified:   README.md
+        modified:   organizer/models.py
