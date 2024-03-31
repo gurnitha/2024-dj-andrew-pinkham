@@ -220,3 +220,28 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   blog/models.py
+
+#### 3.5.2 Creating Migrations
+
+        (startup) λ python manage.py check
+        System check identified no issues (0 silenced).
+
+        (startup) λ python manage.py makemigrations organizer
+        Migrations for 'organizer':
+          organizer\migrations\0001_initial.py
+            - Create model Startup
+            - Create model Tag
+            - Create model NewsLink
+            - Add field tags to startup
+
+        (startup) λ python manage.py makemigrations blog
+        Migrations for 'blog':
+          blog\migrations\0001_initial.py
+            - Create model Post
+
+        (startup) λ python manage.py makemigrations
+        No changes detected
+
+        modified:   README.md
+        new file:   blog/migrations/0001_initial.py
+        new file:   organizer/migrations/0001_initial.py
