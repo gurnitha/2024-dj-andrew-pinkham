@@ -245,3 +245,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         modified:   README.md
         new file:   blog/migrations/0001_initial.py
         new file:   organizer/migrations/0001_initial.py
+
+
+#### 3.7 String Case Ordering: Title Tag name in str method.
+
+        modified:   README.md
+        modified:   organizer/models.py
