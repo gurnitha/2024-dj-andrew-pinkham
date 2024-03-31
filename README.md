@@ -202,3 +202,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+#### 3.4.6.2 Controlling Model Behavior with Nested Meta Classes - Part 2 Declare Meta class in Startup model
+
+        modified:   README.md
+        modified:   organizer/models.py
