@@ -196,3 +196,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   blog/models.py
+
+
+#### 3.4.6.1 Controlling Model Behavior with Nested Meta Classes - Part 1 Declare Meta class in Tag model
+
+        modified:   README.md
+        modified:   organizer/models.py
