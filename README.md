@@ -263,3 +263,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/urls.py
+
+#### 4.1.2 Ch04: Modify homepage view to list Tags.
+
+        modified:   README.md
+        modified:   organizer/views.py
