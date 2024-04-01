@@ -273,3 +273,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+#### 4.5.1 Ch04: Create Tag detail template with basic HTML.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/tag_detail.html
