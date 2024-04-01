@@ -251,3 +251,10 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/models.py
+
+
+## 4. Django Templates
+
+#### 4.1  Ch04: Code Hello World web page content (view).
+
+        modified:   organizer/views.py
