@@ -283,3 +283,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+#### 4.5.3 Ch04: Display variable in Tag detail template.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
