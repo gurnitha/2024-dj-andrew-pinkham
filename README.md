@@ -268,3 +268,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+#### 4.1.3 Ch04: Manually list tags with HTML on homepage.
+
+        modified:   README.md
+        modified:   organizer/views.py
