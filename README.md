@@ -298,3 +298,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+#### 4.5.6 Ch04: Tag detail template warns if no Startups.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
