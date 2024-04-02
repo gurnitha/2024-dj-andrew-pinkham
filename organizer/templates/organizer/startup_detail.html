@@ -1,12 +1,11 @@
 <!-- organizer/templates/organizer/startup_detail.html -->
 <article>
    <h2>{{ startup.name }}</h2>
-
    <dl>
       <dt>Date Founded</dt>
-      <dd>{{ startup.founded_date }}</dd>
+      <dd>{{ startup.founded_date|date:"F jS, Y" }}</dd>
       <dt>Website</dt>
-      <dd>{{ startup.website }}</dd>
+      <dd>{{ startup.website|urlize }}</dd>
       <dt>Contact</dt>
       <dd>{{ startup.contact }}</dd>
       <dt>Tag{{ startup.tags.count|pluralize }}</dt>
@@ -17,9 +16,7 @@
       </dd>
       {% endfor %}
    </dl>
-
-   <p>{{ startup.description }}</p>
-
+   {{ startup.description|linebreaks }}
    {% if startup.newslink_set.all %}
    <section>
       <h3>Recent News</h3>
@@ -33,7 +30,6 @@
       </ul>
    </section>
    {% endif %}
-
    {% if startup.blog_posts.all %}
    <section>
       <h3>Blog Post{{ startup.blog_posts.all|pluralize }}</h3>
@@ -47,5 +43,4 @@
       </ul>
    </section>
    {% endif %}
-   
 </article>

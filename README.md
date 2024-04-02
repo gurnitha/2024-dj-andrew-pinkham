@@ -380,3 +380,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   organizer/templates/organizer/startup_detail.html
+
+
+#### 4.6.7 Ch04-4.41: Display Startup description as HTML.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/startup_detail.html
