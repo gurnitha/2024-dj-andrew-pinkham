@@ -350,3 +350,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   organizer/templates/organizer/tag_list.html
+
+
+#### 4.6.2 Ch04-4.29: Conditionally list tags in list template.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/tag_list.html
