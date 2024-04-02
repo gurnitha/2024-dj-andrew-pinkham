@@ -356,3 +356,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   organizer/templates/organizer/tag_list.html
+
+
+#### 4.6.3 Ch04-4.30: Use empty tag in Tag list template.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/tag_list.html
