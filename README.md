@@ -329,3 +329,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+#### 4.5.12 Ch04: Chain plural filter in Tag detail template.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
