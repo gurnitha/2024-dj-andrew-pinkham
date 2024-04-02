@@ -362,3 +362,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   organizer/templates/organizer/tag_list.html
+
+
+#### 4.6.4 Ch04-4.33: Show empty tag equivalent using conditions.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/tag_list.html
