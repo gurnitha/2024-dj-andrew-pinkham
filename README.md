@@ -344,3 +344,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+
+#### 4.6.1 Ch04-4.27: Create Tag list template.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/tag_list.html

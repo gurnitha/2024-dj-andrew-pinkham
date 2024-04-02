@@ -1,0 +1,11 @@
+<!-- organizer/templates/organizer/tag_list.html -->
+
+<h2>Tag List</h2>
+<ul>
+	{% for tag in tag_list %}
+		<li>
+			<a href="">
+			{{ tag.name|title }}</a>
+		</li>
+	{% endfor %}
+</ul>
