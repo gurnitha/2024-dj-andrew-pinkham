@@ -4,7 +4,7 @@
 
 {% if tag.startup_set.all %}
     <section>
-        <h3>Startups</h3>
+        <h3>Startup{{ tag.startup_set.count|pluralize }}</h3>
         <p>
             Tag is associated with
             {{ tag.startup_set.count }}
@@ -22,7 +22,7 @@
 
 {% if tag.blog_posts.all %}
     <section>
-        <h3>Blog Posts</h3>
+        <h3>Blog Post{{ tag.blog_posts.count|pluralize }}</h3>
         <ul>
             {% for post in tag.blog_posts.all %}
                 <li><a href="">
