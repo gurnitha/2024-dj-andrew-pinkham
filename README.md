@@ -374,3 +374,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   organizer/templates/organizer/tag_list.html
+
+
+#### 4.6.6 Ch04-4.35: Create Startup detail template.
+
+        modified:   README.md
+        new file:   organizer/templates/organizer/startup_detail.html
