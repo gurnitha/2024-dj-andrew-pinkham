@@ -399,3 +399,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         modified:   README.md
         new file:   blog/templates/blog/post_detail.html
 
+
+#### 4.6.10 Ch04-4.44: Create Post list template.
+
+        modified:   README.md
+        new file:   blog/templates/blog/post_list.html
+
