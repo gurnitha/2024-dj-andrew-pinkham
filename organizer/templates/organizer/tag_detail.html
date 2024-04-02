@@ -4,17 +4,15 @@
 
 {% if tag.startup_set.all %}
     <section>
-    <h3>Startups</h3>
-    <ul>
-        {% for startup in tag.startup_set.all %}
-            <li><a href="">
-                {{ startup.name }}
-            </a></li>
-        {% endfor %}
-    </ul>
+        <h3>Startups</h3>
+        <ul>
+            {% for startup in tag.startup_set.all %}
+                <li><a href="">
+                    {{ startup.name }}
+                </a></li>
+            {% endfor %}
+        </ul>
     </section>
-{% else %}
-    <p>This tag is not related to any startups.</p>
 {% endif %}
 
 {% if tag.blog_posts.all %}
@@ -28,8 +26,10 @@
             {% endfor %}
         </ul>
     </section>
-{% else %}
-    <p>This tag is not related to any blog posts.</p>
+{% endif %}
+
+{% if not tag.startup_set.all and not tag.blog_posts.all %}
+    <p>This tag is not related to any content.</p>
 {% endif %}
 
 
