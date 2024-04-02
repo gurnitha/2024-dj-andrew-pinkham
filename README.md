@@ -334,3 +334,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+#### 4.5.13 Ch04: Use count for Tag's Startup info.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
