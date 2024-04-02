@@ -324,3 +324,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+#### 4.5.11 Ch04: Use length filter in Tag detail template.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
