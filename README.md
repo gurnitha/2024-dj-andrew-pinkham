@@ -309,3 +309,8 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+#### 4.5.8 Ch04: Conditionally display Tag's Posts.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
