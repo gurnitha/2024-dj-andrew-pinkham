@@ -405,3 +405,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         modified:   README.md
         new file:   blog/templates/blog/post_list.html
 
+
+#### 4.7.1 Ch04-4.46: Add generic template dir to settings.py
+
+        modified:   README.md
+        modified:   suorganizer/settings.py
+
