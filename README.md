@@ -476,3 +476,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/tag_detail.html
+
+
+#### 4.7.13 Ch04-4.78: Use template in homepage view.
+
+        modified:   README.md
+        modified:   organizer/views.py
