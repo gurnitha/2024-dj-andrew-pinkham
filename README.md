@@ -411,3 +411,11 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         modified:   README.md
         modified:   suorganizer/settings.py
 
+
+#### 4.7.2 Ch04-4.47: Create site-wide base template.
+
+        modified:   README.md
+        new file:   templates/base.html
+
+
+
