@@ -430,4 +430,10 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         modified:   organizer/templates/organizer/tag_list.html
 
 
+#### 4.7.5 Ch04-4.50: Inherit base template in Tag list template.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_list.html
+
+
 
