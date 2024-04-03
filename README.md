@@ -470,3 +470,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/startup_list.html
+
+
+#### 4.7.12 Ch04-4.62: Inherit base in Tag detail template.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_detail.html
