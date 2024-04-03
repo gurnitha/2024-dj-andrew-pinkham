@@ -452,3 +452,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   blog/templates/blog/base_blog.html
+
+
+#### 4.7.9 Ch04-4.56: Tag List inherits from organizer base.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_list.html
