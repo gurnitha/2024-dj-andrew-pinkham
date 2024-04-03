@@ -446,3 +446,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         new file:   templates/organizer/base_organizer.html
+
+
+#### 4.7.8 Ch04-4.55: Create base_blog.html template.
+
+        modified:   README.md
+        new file:   blog/templates/blog/base_blog.html
