@@ -436,4 +436,7 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         modified:   organizer/templates/organizer/tag_list.html
 
 
+#### 4.7.6 Ch04-4.53: Allow template inheritance override.
 
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_list.html
