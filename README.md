@@ -418,4 +418,10 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         new file:   templates/base.html
 
 
+#### 4.7.3 Ch04-4.48: Create site-wide base template.
+
+        modified:   README.md
+        new file:   templates/base.html
+
+
 
