@@ -464,3 +464,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/templates/organizer/startup_list.html
+
+
+#### 4.7.11 Ch04-4.58: Inherit base in Startup list template.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/startup_list.html
