@@ -424,4 +424,10 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         new file:   templates/base.html
 
 
+#### 4.7.4 Ch04-4.49: Revert to empty tag.
+
+        modified:   README.md
+        modified:   organizer/templates/organizer/tag_list.html
+
+
 
