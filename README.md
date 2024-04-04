@@ -527,3 +527,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/urls.py
+
+
+#### 5.8 Ch05-5.12: Raise 404 Error if no Tag exists.
+
+        modified:   README.md
+        modified:   organizer/views.py

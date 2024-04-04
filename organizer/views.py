@@ -1,6 +1,7 @@
 # organizer/views.py
 
 from django.shortcuts import render
+from django.http.response import Http404, HttpResponse
 
 from .models import Tag
 
@@ -22,6 +23,10 @@ def tag_detail(request):
 
 # Since Django 2
 def tag_detail(request, slug):
+    try:
+        tag = Tag.objects.get(slug__iexact=slug)
+    except Tag.DoesNotExist:
+        raise Http404
     tag = Tag.objects.get(slug__iexact=slug)
     context = {'tag': tag}
     return render(request, 'organizer/tag_detail.html', context)
