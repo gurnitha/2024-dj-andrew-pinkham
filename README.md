@@ -521,3 +521,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/urls.py
+
+
+#### 5.7 Ch05-5.10: Add name parameter to Tag Detail URL.
+
+        modified:   README.md
+        modified:   suorganizer/urls.py
