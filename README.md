@@ -515,3 +515,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+
+#### 5.6 Ch05-5.9: Create URL pattern for Tag Detail.
+
+        modified:   README.md
+        modified:   suorganizer/urls.py
