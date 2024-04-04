@@ -509,3 +509,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+
+#### 5.5 Ch05-5.8: Tag Detail: get slug from URL pattern.
+
+        modified:   README.md
+        modified:   organizer/views.py
