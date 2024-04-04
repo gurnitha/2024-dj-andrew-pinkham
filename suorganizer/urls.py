@@ -6,5 +6,7 @@ from organizer.views import homepage
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", homepage),
+
+    # url(r'^$', homepage), # Django 1.x
+    path("", homepage), # Since Django 2
 ]

@@ -491,3 +491,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+
+#### 5.2 Ch05-5.4: Code Hello World web page route (URL conf).
+
+        modified:   README.md
+        modified:   suorganizer/urls.py
