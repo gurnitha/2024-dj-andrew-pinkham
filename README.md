@@ -485,3 +485,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
 
 ## 5. Creating Webpages
+
+
+#### 5.1 Ch05-5.2: Tag Detail: create view skeleton.
+
+        modified:   README.md
+        modified:   organizer/views.py
