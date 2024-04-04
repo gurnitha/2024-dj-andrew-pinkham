@@ -9,6 +9,7 @@ def homepage(request):
 
 
 def tag_detail(request):
-        # slug = ?
-        tag = Tag.objects.get(slug__iexact=slug)
-        return HttpResponse()
+    # slug = ?
+    tag = Tag.objects.get(slug__iexact=slug)
+    context = {'tag': tag}
+    return render(request, 'organizer/tag_detail.html', context)

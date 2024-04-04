@@ -503,3 +503,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+
+#### 5.4 Ch05-5.7: Tag Detail: load and render template. 
+
+        modified:   README.md
+        modified:   organizer/views.py
