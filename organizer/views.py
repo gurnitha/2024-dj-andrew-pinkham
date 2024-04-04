@@ -9,4 +9,6 @@ def homepage(request):
 
 
 def tag_detail(request):
-    return HttpResponse()
+        # slug = ?
+        tag = Tag.objects.get(slug__iexact=slug)
+        return HttpResponse()

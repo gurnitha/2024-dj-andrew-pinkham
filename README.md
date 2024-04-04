@@ -497,3 +497,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   suorganizer/urls.py
+
+
+#### 5.3 Ch05-5.6: Tag Detail: get Tag from database.
+
+        modified:   README.md
+        modified:   organizer/views.py
