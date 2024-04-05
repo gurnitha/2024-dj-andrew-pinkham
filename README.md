@@ -557,3 +557,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+
+#### 5.12 Ch05-5.38 and 5.39: Split organizer URLs into app URLConf.
+
+        modified:   README.md
+        modified:   organizer/urls.py
