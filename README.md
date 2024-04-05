@@ -551,3 +551,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
         1. Cleaning up the codes
         2. Old codes from the book don't work
         3. Use my own codes
+
+
+#### 5.11 Ch05-5.31: Shorten Tag Detail with render.
+
+        modified:   README.md
+        modified:   organizer/views.py
