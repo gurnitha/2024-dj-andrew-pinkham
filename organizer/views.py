@@ -2,6 +2,7 @@
 
 from django.shortcuts import render
 from django.http.response import Http404, HttpResponse
+from django.shortcuts import get_object_or_404
 
 from .models import Tag
 

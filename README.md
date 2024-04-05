@@ -533,3 +533,9 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/views.py
+
+
+#### 5.9 Ch05-5.17: Shorten Tag Detail with get_object_or_404.
+
+        modified:   README.md
+        modified:   organizer/views.py
