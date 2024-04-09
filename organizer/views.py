@@ -41,3 +41,9 @@ def tag_detail(request, slug):
         request,
         'organizer/tag_detail.html',
         {'tag': tag})
+
+
+def tag_list(request):
+    tag_list = Tag.objects.all()
+    data = {'tag_list':tag_list}
+    return render(request, 'organizer/tag_list.html', data)

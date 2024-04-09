@@ -563,3 +563,10 @@ Belajar membuat aplikasi berdasarkan bukunya Anrew Pinkham: Unleased Django
 
         modified:   README.md
         modified:   organizer/urls.py
+
+
+#### 5.13 Ch05-5.41 and 5.42: Changed homepage view to more sensible name.
+
+        modified:   README.md
+        modified:   organizer/urls.py
+        modified:   organizer/views.py
